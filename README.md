@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @m4rci3
+- 👀 I’m interested in all things surrounding cybersecurity, like OS's, and programming, ICS and OT. 
+- 🌱 I’m currently learning cybersecurity 
+- 🏳️‍⚧️ Pronouns: She/Her 

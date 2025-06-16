@@ -29,6 +29,11 @@ I'm a undergrad cybersecurity student working on coding projects to reinforce co
 
 <h3 aligh="left">Tools/Utilities</h3>
 
+
+![Suricata](https://img.shields.io/badge/Suricata-orange?style=for-the-badge)
+![tmux](https://img.shields.io/badge/tmux-1BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
+![snort](https://img.shields.io/badge/Snort-F6A7AA.svg?style=for-the-badge&logo=Snort&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
